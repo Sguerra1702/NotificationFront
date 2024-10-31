@@ -1,3 +1,6 @@
+
+![download](https://github.com/user-attachments/assets/9a22f2dd-1f90-43a9-8a19-632a8f39f8a9)
+
 # NotificationFront
 
 ## De igual manera, se implementa una interfaz gráfica básica para desarrollar y validar comportamientos necesarios para la validación del modulo de notificaciones y sus diferentes tipos
@@ -22,3 +25,4 @@
 ## Integrantes:
 ## Manuel Felipe Barrera Barrera, Paula Natalia Paez Vega, Andres Felipe Rodriguez Chaparro. Santiago Guerra Penagos, Marco Antonio Alvarez Ramirez
 
+#
