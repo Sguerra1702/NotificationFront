@@ -8,8 +8,8 @@
 ## Stack de tecnología:
 * SpringBoot
 * MongoDB
-* Sonar
 * React
+* Javajdk21
 
 ## Requerimientos:
 * Datos del usuario (responsable economico y estudiante)
